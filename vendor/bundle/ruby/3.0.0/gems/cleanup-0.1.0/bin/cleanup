@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require 'bundler'
+Bundler.require
+
+load 'config/rules.rb'
+
+CleanUp.check

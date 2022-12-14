@@ -1,0 +1,27 @@
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/puma-5.6.5/ext/puma_http11
+/home/andy/.rbenv/versions/3.0.1/bin/ruby -I /home/andy/.rbenv/versions/3.0.1/lib/ruby/site_ruby/3.0.0 extconf.rb
+using OpenSSL pkgconfig (openssl.pc)
+checking for openssl/bio.h... yes
+checking for DTLS_method() in openssl/ssl.h... yes
+checking for TLS_server_method() in openssl/ssl.h... yes
+checking for SSL_CTX_set_min_proto_version(NULL, 0) in openssl/ssl.h... yes
+checking for X509_STORE_up_ref()... yes
+checking for SSL_CTX_set_ecdh_auto(NULL, 0) in openssl/ssl.h... yes
+checking for SSL_CTX_set_dh_auto(NULL, 0) in openssl/ssl.h... yes
+checking for SSL_get1_peer_certificate() in openssl/ssl.h... no
+checking for Random.bytes... yes
+creating Makefile
+
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/puma-5.6.5/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20221214-13241-qbmlhq sitelibdir\=./.gem.20221214-13241-qbmlhq clean
+
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/puma-5.6.5/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20221214-13241-qbmlhq sitelibdir\=./.gem.20221214-13241-qbmlhq
+compiling http11_parser.c
+compiling mini_ssl.c
+compiling puma_http11.c
+linking shared-object puma/puma_http11.so
+
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/puma-5.6.5/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20221214-13241-qbmlhq sitelibdir\=./.gem.20221214-13241-qbmlhq install
+/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20221214-13241-qbmlhq/puma

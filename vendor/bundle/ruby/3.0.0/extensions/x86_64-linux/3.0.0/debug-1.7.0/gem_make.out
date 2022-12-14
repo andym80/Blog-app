@@ -1,0 +1,16 @@
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/debug-1.7.0/ext/debug
+/home/andy/.rbenv/versions/3.0.1/bin/ruby -I /home/andy/.rbenv/versions/3.0.1/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/debug-1.7.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20221214-13241-vhwq3p sitelibdir\=./.gem.20221214-13241-vhwq3p clean
+
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/debug-1.7.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20221214-13241-vhwq3p sitelibdir\=./.gem.20221214-13241-vhwq3p
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/debug-1.7.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20221214-13241-vhwq3p sitelibdir\=./.gem.20221214-13241-vhwq3p install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20221214-13241-vhwq3p/debug

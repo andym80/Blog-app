@@ -1,0 +1,15 @@
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.15.0/ext/bootsnap
+/home/andy/.rbenv/versions/3.0.1/bin/ruby -I /home/andy/.rbenv/versions/3.0.1/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.15.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20221214-13241-lywc1x sitelibdir\=./.gem.20221214-13241-lywc1x clean
+
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.15.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20221214-13241-lywc1x sitelibdir\=./.gem.20221214-13241-lywc1x
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.15.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20221214-13241-lywc1x sitelibdir\=./.gem.20221214-13241-lywc1x install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20221214-13241-lywc1x/bootsnap

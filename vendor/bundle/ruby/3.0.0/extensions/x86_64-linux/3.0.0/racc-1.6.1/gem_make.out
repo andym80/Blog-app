@@ -1,0 +1,17 @@
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/racc-1.6.1/ext/racc/cparse
+/home/andy/.rbenv/versions/3.0.1/bin/ruby -I /home/andy/.rbenv/versions/3.0.1/lib/ruby/site_ruby/3.0.0 extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/racc-1.6.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20221214-13241-concwo sitelibdir\=./.gem.20221214-13241-concwo clean
+
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/racc-1.6.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20221214-13241-concwo sitelibdir\=./.gem.20221214-13241-concwo
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/racc-1.6.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20221214-13241-concwo sitelibdir\=./.gem.20221214-13241-concwo install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20221214-13241-concwo/racc

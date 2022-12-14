@@ -1,0 +1,20 @@
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/io-console-0.5.11/ext/io/console
+/home/andy/.rbenv/versions/3.0.1/bin/ruby -I /home/andy/.rbenv/versions/3.0.1/lib/ruby/site_ruby/3.0.0 extconf.rb
+checking for termios.h... yes
+checking for cfmakeraw() in termios.h... yes
+checking for sys/ioctl.h... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... no
+checking for rb_scheduler_timeout()... no
+creating Makefile
+
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/io-console-0.5.11/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20221214-13241-a1ul1h sitelibdir\=./.gem.20221214-13241-a1ul1h clean
+
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/io-console-0.5.11/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20221214-13241-a1ul1h sitelibdir\=./.gem.20221214-13241-a1ul1h
+compiling console.c
+linking shared-object io/console.so
+
+current directory: /home/andy/Repos/Microverse/module 5/week3/New/Blog-app/vendor/bundle/ruby/3.0.0/gems/io-console-0.5.11/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20221214-13241-a1ul1h sitelibdir\=./.gem.20221214-13241-a1ul1h install
+/usr/bin/install -c -m 0755 console.so ./.gem.20221214-13241-a1ul1h/io
